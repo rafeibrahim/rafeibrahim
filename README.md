@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rafeibrahim
 - 👀 I’m interested in web and mobile app development
 - 🌱 I’m currently learning full stack web development with Helsinki Uni
-- 💞️ I’m looking to collaborate on single page web applications project
+- 💞️ I’m looking to collaborate on web (e.g. with React) and mobile projects (e.g. with ReactNative, android or iOS).
 - 📫 How to reach me at rafe.ibrahim00@gmail.com
 
 <!---
